@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+	<Metadata>
+		<Identity Id="ZunkoIDE..cf8b886a-5129-4152-8ff3-1e8ff5a18186" Version="0.1" Language="ja-JP" Publisher="Arinyan Madobe" />
+		<DisplayName>ZunkoIDE</DisplayName>
+		<Description xml:space="preserve">This extension changes the background of text editor Zunko Tohoku  (Japanese Name: 東北ずん子) !</Description>
+		<License>License.txt</License>
+		<Icon>zzm_tatsu.png</Icon>
+		<PreviewImage>Screenshot.png</PreviewImage>
+		<Tags>theme, Text Editor, 痛IDE拡張</Tags>
+	</Metadata>
+	<Installation>
+		<InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[11.0,15.0)" />
+	</Installation>
+	<Dependencies>
+		<Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="4.5" />
+	</Dependencies>
+	<Assets>
+		<Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%|" />
+	</Assets>
+</PackageManifest>

@@ -1,0 +1,12 @@
+﻿この拡張機能（ただし画像は除く）はMITライセンスです。
+日本語参考訳は以下をご覧下さい。
+http://sourceforge.jp/projects/opensource/wiki/licenses%2FMIT_license
+
+Copyright (c) 2014 Arinyan Madobe
+This extention exclude images is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+
+画像：
+(C) 2014 SSS LLC. All Rights Reserved.
+http://zunko.jp/guideline.html
+この拡張機能は非公式であり、SSS合同会社とは一切関係ありません。

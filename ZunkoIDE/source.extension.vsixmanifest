@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 	<Metadata>
-		<Identity Id="ZunkoIDE..cf8b886a-5129-4152-8ff3-1e8ff5a18186" Version="0.1" Language="ja-JP" Publisher="Arinyan Madobe" />
+		<Identity Id="ZunkoIDE..cf8b886a-5129-4152-8ff3-1e8ff5a18186" Version="0.2" Language="en-US" Publisher="Arinyan Madobe" />
 		<DisplayName>ZunkoIDE</DisplayName>
 		<Description xml:space="preserve">This extension changes the background of text editor Zunko Tohoku  (Japanese Name: 東北ずん子) !</Description>
 		<License>License.txt</License>

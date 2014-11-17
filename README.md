@@ -2,6 +2,9 @@ ZunkoIDE
 ========
 This extension changes the background of text editor Zunko Tohoku  (Japanese Name: 東北ずん子) !
 
+## Requirements ##
+Visual Studio 2012/2013/2015 Preview (exclude Express, but include 2013 Community!)
+
 ## License ##
 This extention exclude images is released under the MIT License.
 

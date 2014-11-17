@@ -29,7 +29,5 @@ THE SOFTWARE.
 
 ### Images ###
 (C) 2014 SSS LLC. All Rights Reserved.
-
 [Guidline](http://zunko.jp/guideline.html) (Japanese)
-
 This extension is unofficial, and I have no connection with SSS LLC.
